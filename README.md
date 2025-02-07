@@ -7,6 +7,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anjalee01/Leetcode-/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Anjalee01/Leetcode-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anjalee01/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anjalee01/Leetcode-/tree/master/0027-remove-element) |
@@ -24,6 +25,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anjalee01/Leetcode-/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Anjalee01/Leetcode-/tree/master/0049-group-anagrams) |
 | [2427-first-letter-to-appear-twice](https://github.com/Anjalee01/Leetcode-/tree/master/2427-first-letter-to-appear-twice) |
 ## String
