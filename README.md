@@ -13,6 +13,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [0027-remove-element](https://github.com/Anjalee01/Leetcode-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Anjalee01/Leetcode-/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Anjalee01/Leetcode-/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Anjalee01/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Anjalee01/Leetcode-/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anjalee01/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjalee01/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
@@ -47,6 +48,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [0015-3sum](https://github.com/Anjalee01/Leetcode-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anjalee01/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anjalee01/Leetcode-/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Anjalee01/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Anjalee01/Leetcode-/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjalee01/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Anjalee01/Leetcode-/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -55,6 +57,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | ------- |
 | [0015-3sum](https://github.com/Anjalee01/Leetcode-/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Anjalee01/Leetcode-/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Anjalee01/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anjalee01/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjalee01/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 ## Prefix Sum
