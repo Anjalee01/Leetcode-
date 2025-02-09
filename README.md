@@ -19,6 +19,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [0349-intersection-of-two-arrays](https://github.com/Anjalee01/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [1603-running-sum-of-1d-array](https://github.com/Anjalee01/Leetcode-/tree/master/1603-running-sum-of-1d-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Anjalee01/Leetcode-/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Anjalee01/Leetcode-/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -37,6 +38,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [0049-group-anagrams](https://github.com/Anjalee01/Leetcode-/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/Anjalee01/Leetcode-/tree/master/0344-reverse-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Anjalee01/Leetcode-/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Anjalee01/Leetcode-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2427-first-letter-to-appear-twice](https://github.com/Anjalee01/Leetcode-/tree/master/2427-first-letter-to-appear-twice) |
 ## Counting
 |  |
@@ -86,4 +88,8 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Anjalee01/Leetcode-/tree/master/2265-partition-array-according-to-given-pivot) |
+## String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Anjalee01/Leetcode-/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
