@@ -8,6 +8,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anjalee01/Leetcode-/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Anjalee01/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anjalee01/Leetcode-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anjalee01/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anjalee01/Leetcode-/tree/master/0027-remove-element) |
@@ -47,6 +48,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anjalee01/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anjalee01/Leetcode-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anjalee01/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anjalee01/Leetcode-/tree/master/0027-remove-element) |
@@ -92,4 +94,8 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Anjalee01/Leetcode-/tree/master/2292-counting-words-with-a-given-prefix) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Anjalee01/Leetcode-/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
