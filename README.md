@@ -31,12 +31,14 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | ------- |
 | [0001-two-sum](https://github.com/Anjalee01/Leetcode-/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Anjalee01/Leetcode-/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/Anjalee01/Leetcode-/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjalee01/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [2427-first-letter-to-appear-twice](https://github.com/Anjalee01/Leetcode-/tree/master/2427-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Anjalee01/Leetcode-/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/Anjalee01/Leetcode-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anjalee01/Leetcode-/tree/master/0344-reverse-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Anjalee01/Leetcode-/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Anjalee01/Leetcode-/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -63,6 +65,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [0049-group-anagrams](https://github.com/Anjalee01/Leetcode-/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Anjalee01/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anjalee01/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Anjalee01/Leetcode-/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjalee01/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 ## Prefix Sum
 |  |
