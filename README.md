@@ -22,6 +22,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [1651-shuffle-string](https://github.com/Anjalee01/Leetcode-/tree/master/1651-shuffle-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Anjalee01/Leetcode-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Anjalee01/Leetcode-/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3429-special-array-i](https://github.com/Anjalee01/Leetcode-/tree/master/3429-special-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
