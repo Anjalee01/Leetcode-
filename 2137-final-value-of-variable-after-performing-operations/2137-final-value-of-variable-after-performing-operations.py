@@ -3,11 +3,10 @@ class Solution:
 
         x=0
 
-        for i in range(len(operations)):
-            if operations[i] == "--X"   or   operations[i] == "X--":
+        for i in operations:
+            if i == "--X"   or   i == "X--":
                 x -= 1   
             else:
-                operations[i] == "++X"   or   operations[i] == "X++"
                 x+=1
         return x
                 
