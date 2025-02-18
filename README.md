@@ -43,6 +43,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anjalee01/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Anjalee01/Leetcode-/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Anjalee01/Leetcode-/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Anjalee01/Leetcode-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anjalee01/Leetcode-/tree/master/0344-reverse-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Anjalee01/Leetcode-/tree/master/1537-maximum-score-after-splitting-a-string) |
