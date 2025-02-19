@@ -19,6 +19,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [0215-kth-largest-element-in-an-array](https://github.com/Anjalee01/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjalee01/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/Anjalee01/Leetcode-/tree/master/0917-boats-to-save-people) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Anjalee01/Leetcode-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/Anjalee01/Leetcode-/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/Anjalee01/Leetcode-/tree/master/1651-shuffle-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Anjalee01/Leetcode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
