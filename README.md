@@ -20,6 +20,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [0217-contains-duplicate](https://github.com/Anjalee01/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjalee01/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/Anjalee01/Leetcode-/tree/master/0917-boats-to-save-people) |
+| [1524-string-matching-in-an-array](https://github.com/Anjalee01/Leetcode-/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Anjalee01/Leetcode-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/Anjalee01/Leetcode-/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/Anjalee01/Leetcode-/tree/master/1651-shuffle-string) |
@@ -50,6 +51,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [0058-length-of-last-word](https://github.com/Anjalee01/Leetcode-/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Anjalee01/Leetcode-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anjalee01/Leetcode-/tree/master/0344-reverse-string) |
+| [1524-string-matching-in-an-array](https://github.com/Anjalee01/Leetcode-/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Anjalee01/Leetcode-/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1651-shuffle-string](https://github.com/Anjalee01/Leetcode-/tree/master/1651-shuffle-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Anjalee01/Leetcode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -113,6 +115,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 ## String Matching
 |  |
 | ------- |
+| [1524-string-matching-in-an-array](https://github.com/Anjalee01/Leetcode-/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Anjalee01/Leetcode-/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Greedy
 |  |
