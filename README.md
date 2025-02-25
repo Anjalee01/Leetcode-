@@ -126,4 +126,8 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anjalee01/Leetcode-/tree/master/0013-roman-to-integer) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Anjalee01/Leetcode-/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
