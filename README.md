@@ -32,6 +32,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Anjalee01/Leetcode-/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Anjalee01/Leetcode-/tree/master/0231-power-of-two) |
 | [2427-first-letter-to-appear-twice](https://github.com/Anjalee01/Leetcode-/tree/master/2427-first-letter-to-appear-twice) |
 ## Hash Table
 |  |
@@ -127,9 +128,14 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anjalee01/Leetcode-/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/Anjalee01/Leetcode-/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Anjalee01/Leetcode-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Anjalee01/Leetcode-/tree/master/0908-middle-of-the-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Anjalee01/Leetcode-/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
