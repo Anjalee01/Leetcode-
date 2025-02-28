@@ -19,6 +19,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [0215-kth-largest-element-in-an-array](https://github.com/Anjalee01/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Anjalee01/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjalee01/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Anjalee01/Leetcode-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0917-boats-to-save-people](https://github.com/Anjalee01/Leetcode-/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Anjalee01/Leetcode-/tree/master/0941-sort-array-by-parity) |
 | [1524-string-matching-in-an-array](https://github.com/Anjalee01/Leetcode-/tree/master/1524-string-matching-in-an-array) |
@@ -104,6 +105,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | ------- |
 | [0035-search-insert-position](https://github.com/Anjalee01/Leetcode-/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjalee01/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Anjalee01/Leetcode-/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
