@@ -22,6 +22,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Anjalee01/Leetcode-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0917-boats-to-save-people](https://github.com/Anjalee01/Leetcode-/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Anjalee01/Leetcode-/tree/master/0941-sort-array-by-parity) |
+| [1241-decompress-run-length-encoded-list](https://github.com/Anjalee01/Leetcode-/tree/master/1241-decompress-run-length-encoded-list) |
 | [1524-string-matching-in-an-array](https://github.com/Anjalee01/Leetcode-/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Anjalee01/Leetcode-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/Anjalee01/Leetcode-/tree/master/1603-running-sum-of-1d-array) |
