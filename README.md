@@ -60,6 +60,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [0242-valid-anagram](https://github.com/Anjalee01/Leetcode-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anjalee01/Leetcode-/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Anjalee01/Leetcode-/tree/master/0383-ransom-note) |
+| [0412-fizz-buzz](https://github.com/Anjalee01/Leetcode-/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/Anjalee01/Leetcode-/tree/master/0742-to-lower-case) |
 | [1524-string-matching-in-an-array](https://github.com/Anjalee01/Leetcode-/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Anjalee01/Leetcode-/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -129,6 +130,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Anjalee01/Leetcode-/tree/master/0412-fizz-buzz) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Anjalee01/Leetcode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/Anjalee01/Leetcode-/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Anjalee01/Leetcode-/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -148,6 +150,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anjalee01/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/Anjalee01/Leetcode-/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/Anjalee01/Leetcode-/tree/master/0412-fizz-buzz) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Anjalee01/Leetcode-/tree/master/2649-count-total-number-of-colored-cells) |
 ## Linked List
 |  |
