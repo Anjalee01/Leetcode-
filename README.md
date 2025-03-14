@@ -22,6 +22,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [0217-contains-duplicate](https://github.com/Anjalee01/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Anjalee01/Leetcode-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjalee01/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0682-baseball-game](https://github.com/Anjalee01/Leetcode-/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Anjalee01/Leetcode-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0817-design-hashmap](https://github.com/Anjalee01/Leetcode-/tree/master/0817-design-hashmap) |
 | [0917-boats-to-save-people](https://github.com/Anjalee01/Leetcode-/tree/master/0917-boats-to-save-people) |
@@ -155,6 +156,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Anjalee01/Leetcode-/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/Anjalee01/Leetcode-/tree/master/0682-baseball-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Anjalee01/Leetcode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/Anjalee01/Leetcode-/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Anjalee01/Leetcode-/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -203,4 +205,8 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/Anjalee01/Leetcode-/tree/master/0817-design-hashmap) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Anjalee01/Leetcode-/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
