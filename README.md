@@ -74,6 +74,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [0387-first-unique-character-in-a-string](https://github.com/Anjalee01/Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Anjalee01/Leetcode-/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/Anjalee01/Leetcode-/tree/master/0742-to-lower-case) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Anjalee01/Leetcode-/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1524-string-matching-in-an-array](https://github.com/Anjalee01/Leetcode-/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Anjalee01/Leetcode-/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1651-shuffle-string](https://github.com/Anjalee01/Leetcode-/tree/master/1651-shuffle-string) |
@@ -209,4 +210,5 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Anjalee01/Leetcode-/tree/master/0682-baseball-game) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Anjalee01/Leetcode-/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
