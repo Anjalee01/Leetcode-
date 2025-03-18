@@ -218,4 +218,20 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [0874-backspace-string-compare](https://github.com/Anjalee01/Leetcode-/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Anjalee01/Leetcode-/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Anjalee01/Leetcode-/tree/master/2470-removing-stars-from-a-string) |
+## Tree
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/Anjalee01/Leetcode-/tree/master/0617-merge-two-binary-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/Anjalee01/Leetcode-/tree/master/0617-merge-two-binary-trees) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/Anjalee01/Leetcode-/tree/master/0617-merge-two-binary-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/Anjalee01/Leetcode-/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
