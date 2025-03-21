@@ -16,6 +16,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [0049-group-anagrams](https://github.com/Anjalee01/Leetcode-/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Anjalee01/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Anjalee01/Leetcode-/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Anjalee01/Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anjalee01/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Anjalee01/Leetcode-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anjalee01/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
@@ -181,6 +182,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anjalee01/Leetcode-/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Anjalee01/Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Anjalee01/Leetcode-/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Anjalee01/Leetcode-/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Anjalee01/Leetcode-/tree/master/0412-fizz-buzz) |
@@ -216,6 +218,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Anjalee01/Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Anjalee01/Leetcode-/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/Anjalee01/Leetcode-/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Anjalee01/Leetcode-/tree/master/0874-backspace-string-compare) |
