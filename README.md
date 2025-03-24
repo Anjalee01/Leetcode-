@@ -87,6 +87,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [2427-first-letter-to-appear-twice](https://github.com/Anjalee01/Leetcode-/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/Anjalee01/Leetcode-/tree/master/2470-removing-stars-from-a-string) |
 | [2886-faulty-keyboard](https://github.com/Anjalee01/Leetcode-/tree/master/2886-faulty-keyboard) |
+| [3447-clear-digits](https://github.com/Anjalee01/Leetcode-/tree/master/3447-clear-digits) |
 | [3636-check-balanced-string](https://github.com/Anjalee01/Leetcode-/tree/master/3636-check-balanced-string) |
 ## Counting
 |  |
@@ -168,6 +169,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [2265-partition-array-according-to-given-pivot](https://github.com/Anjalee01/Leetcode-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2470-removing-stars-from-a-string](https://github.com/Anjalee01/Leetcode-/tree/master/2470-removing-stars-from-a-string) |
 | [2886-faulty-keyboard](https://github.com/Anjalee01/Leetcode-/tree/master/2886-faulty-keyboard) |
+| [3447-clear-digits](https://github.com/Anjalee01/Leetcode-/tree/master/3447-clear-digits) |
 ## String Matching
 |  |
 | ------- |
@@ -224,6 +226,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [0874-backspace-string-compare](https://github.com/Anjalee01/Leetcode-/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Anjalee01/Leetcode-/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Anjalee01/Leetcode-/tree/master/2470-removing-stars-from-a-string) |
+| [3447-clear-digits](https://github.com/Anjalee01/Leetcode-/tree/master/3447-clear-digits) |
 ## Tree
 |  |
 | ------- |
