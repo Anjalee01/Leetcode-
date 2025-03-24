@@ -4,7 +4,7 @@ class Solution:
         stack = []
         for c in s:
             if c.isdigit():
-                if stack:
+                # if stack:
                     stack.pop()
             else:
                 stack.append(c)
