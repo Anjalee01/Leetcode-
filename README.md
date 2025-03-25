@@ -143,6 +143,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [0035-search-insert-position](https://github.com/Anjalee01/Leetcode-/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anjalee01/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjalee01/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/Anjalee01/Leetcode-/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Anjalee01/Leetcode-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anjalee01/Leetcode-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
@@ -243,4 +244,8 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/Anjalee01/Leetcode-/tree/master/0617-merge-two-binary-trees) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Anjalee01/Leetcode-/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
