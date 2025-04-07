@@ -71,6 +71,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [0013-roman-to-integer](https://github.com/Anjalee01/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Anjalee01/Leetcode-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Anjalee01/Leetcode-/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/Anjalee01/Leetcode-/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Anjalee01/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Anjalee01/Leetcode-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anjalee01/Leetcode-/tree/master/0344-reverse-string) |
@@ -228,6 +229,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Anjalee01/Leetcode-/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anjalee01/Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Anjalee01/Leetcode-/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/Anjalee01/Leetcode-/tree/master/0682-baseball-game) |
