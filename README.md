@@ -42,6 +42,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [2265-partition-array-according-to-given-pivot](https://github.com/Anjalee01/Leetcode-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Anjalee01/Leetcode-/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Anjalee01/Leetcode-/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2350-find-closest-number-to-zero](https://github.com/Anjalee01/Leetcode-/tree/master/2350-find-closest-number-to-zero) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anjalee01/Leetcode-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3429-special-array-i](https://github.com/Anjalee01/Leetcode-/tree/master/3429-special-array-i) |
 ## Bit Manipulation
