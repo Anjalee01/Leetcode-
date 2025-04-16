@@ -23,6 +23,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [0217-contains-duplicate](https://github.com/Anjalee01/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Anjalee01/Leetcode-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjalee01/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/Anjalee01/Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Anjalee01/Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Anjalee01/Leetcode-/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Anjalee01/Leetcode-/tree/master/0713-subarray-product-less-than-k) |
