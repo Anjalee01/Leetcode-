@@ -154,6 +154,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | ------- |
 | [0035-search-insert-position](https://github.com/Anjalee01/Leetcode-/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anjalee01/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/Anjalee01/Leetcode-/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjalee01/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Anjalee01/Leetcode-/tree/master/0374-guess-number-higher-or-lower) |
 | [0713-subarray-product-less-than-k](https://github.com/Anjalee01/Leetcode-/tree/master/0713-subarray-product-less-than-k) |
@@ -264,6 +265,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Anjalee01/Leetcode-/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Anjalee01/Leetcode-/tree/master/0374-guess-number-higher-or-lower) |
 ## Sliding Window
 |  |
