@@ -71,6 +71,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anjalee01/Leetcode-/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Anjalee01/Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Anjalee01/Leetcode-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Anjalee01/Leetcode-/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Anjalee01/Leetcode-/tree/master/0071-simplify-path) |
@@ -274,4 +275,8 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Anjalee01/Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Anjalee01/Leetcode-/tree/master/0713-subarray-product-less-than-k) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Anjalee01/Leetcode-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
