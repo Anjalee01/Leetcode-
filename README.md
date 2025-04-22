@@ -82,6 +82,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [0383-ransom-note](https://github.com/Anjalee01/Leetcode-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anjalee01/Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Anjalee01/Leetcode-/tree/master/0412-fizz-buzz) |
+| [0551-student-attendance-record-i](https://github.com/Anjalee01/Leetcode-/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anjalee01/Leetcode-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0686-repeated-string-match](https://github.com/Anjalee01/Leetcode-/tree/master/0686-repeated-string-match) |
 | [0742-to-lower-case](https://github.com/Anjalee01/Leetcode-/tree/master/0742-to-lower-case) |
