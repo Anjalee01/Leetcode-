@@ -17,6 +17,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [0088-merge-sorted-array](https://github.com/Anjalee01/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Anjalee01/Leetcode-/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anjalee01/Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/Anjalee01/Leetcode-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anjalee01/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Anjalee01/Leetcode-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anjalee01/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
@@ -159,6 +160,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Anjalee01/Leetcode-/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/Anjalee01/Leetcode-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anjalee01/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Anjalee01/Leetcode-/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjalee01/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
