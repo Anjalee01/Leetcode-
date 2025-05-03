@@ -76,6 +76,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anjalee01/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Anjalee01/Leetcode-/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/Anjalee01/Leetcode-/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Anjalee01/Leetcode-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Anjalee01/Leetcode-/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Anjalee01/Leetcode-/tree/master/0071-simplify-path) |
@@ -189,6 +190,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Anjalee01/Leetcode-/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/Anjalee01/Leetcode-/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Anjalee01/Leetcode-/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Anjalee01/Leetcode-/tree/master/0874-backspace-string-compare) |
@@ -216,6 +218,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anjalee01/Leetcode-/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Anjalee01/Leetcode-/tree/master/0043-multiply-strings) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anjalee01/Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Anjalee01/Leetcode-/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Anjalee01/Leetcode-/tree/master/0231-power-of-two) |
