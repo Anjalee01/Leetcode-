@@ -49,6 +49,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [2292-counting-words-with-a-given-prefix](https://github.com/Anjalee01/Leetcode-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2350-find-closest-number-to-zero](https://github.com/Anjalee01/Leetcode-/tree/master/2350-find-closest-number-to-zero) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anjalee01/Leetcode-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjalee01/Leetcode-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3429-special-array-i](https://github.com/Anjalee01/Leetcode-/tree/master/3429-special-array-i) |
 ## Bit Manipulation
 |  |
@@ -139,6 +140,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [2232-adding-spaces-to-a-string](https://github.com/Anjalee01/Leetcode-/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Anjalee01/Leetcode-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anjalee01/Leetcode-/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjalee01/Leetcode-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -154,6 +156,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [0941-sort-array-by-parity](https://github.com/Anjalee01/Leetcode-/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Anjalee01/Leetcode-/tree/master/1019-squares-of-a-sorted-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Anjalee01/Leetcode-/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjalee01/Leetcode-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -174,6 +177,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Anjalee01/Leetcode-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/Anjalee01/Leetcode-/tree/master/0907-koko-eating-bananas) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anjalee01/Leetcode-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjalee01/Leetcode-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
