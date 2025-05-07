@@ -263,11 +263,13 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Anjalee01/Leetcode-/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anjalee01/Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
+| [0969-number-of-recent-calls](https://github.com/Anjalee01/Leetcode-/tree/master/0969-number-of-recent-calls) |
 ## Design
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Anjalee01/Leetcode-/tree/master/0232-implement-queue-using-stacks) |
 | [0817-design-hashmap](https://github.com/Anjalee01/Leetcode-/tree/master/0817-design-hashmap) |
+| [0969-number-of-recent-calls](https://github.com/Anjalee01/Leetcode-/tree/master/0969-number-of-recent-calls) |
 ## Hash Function
 |  |
 | ------- |
@@ -319,4 +321,8 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Anjalee01/Leetcode-/tree/master/0055-jump-game) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Anjalee01/Leetcode-/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
