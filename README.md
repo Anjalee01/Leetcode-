@@ -43,6 +43,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [1791-richest-customer-wealth](https://github.com/Anjalee01/Leetcode-/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Anjalee01/Leetcode-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Anjalee01/Leetcode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Anjalee01/Leetcode-/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/Anjalee01/Leetcode-/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Anjalee01/Leetcode-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anjalee01/Leetcode-/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -205,6 +206,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [0682-baseball-game](https://github.com/Anjalee01/Leetcode-/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Anjalee01/Leetcode-/tree/master/0874-backspace-string-compare) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Anjalee01/Leetcode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Anjalee01/Leetcode-/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/Anjalee01/Leetcode-/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Anjalee01/Leetcode-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anjalee01/Leetcode-/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -264,6 +266,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [0232-implement-queue-using-stacks](https://github.com/Anjalee01/Leetcode-/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anjalee01/Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/Anjalee01/Leetcode-/tree/master/0969-number-of-recent-calls) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Anjalee01/Leetcode-/tree/master/2195-time-needed-to-buy-tickets) |
 ## Design
 |  |
 | ------- |
