@@ -144,6 +144,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [0941-sort-array-by-parity](https://github.com/Anjalee01/Leetcode-/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Anjalee01/Leetcode-/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Anjalee01/Leetcode-/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Anjalee01/Leetcode-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/Anjalee01/Leetcode-/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Anjalee01/Leetcode-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anjalee01/Leetcode-/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -251,6 +252,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [0328-odd-even-linked-list](https://github.com/Anjalee01/Leetcode-/tree/master/0328-odd-even-linked-list) |
 | [0817-design-hashmap](https://github.com/Anjalee01/Leetcode-/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/Anjalee01/Leetcode-/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Anjalee01/Leetcode-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
