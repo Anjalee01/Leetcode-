@@ -31,6 +31,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [0713-subarray-product-less-than-k](https://github.com/Anjalee01/Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Anjalee01/Leetcode-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0817-design-hashmap](https://github.com/Anjalee01/Leetcode-/tree/master/0817-design-hashmap) |
+| [0822-unique-morse-code-words](https://github.com/Anjalee01/Leetcode-/tree/master/0822-unique-morse-code-words) |
 | [0907-koko-eating-bananas](https://github.com/Anjalee01/Leetcode-/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/Anjalee01/Leetcode-/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Anjalee01/Leetcode-/tree/master/0941-sort-array-by-parity) |
@@ -75,6 +76,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [0383-ransom-note](https://github.com/Anjalee01/Leetcode-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anjalee01/Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0817-design-hashmap](https://github.com/Anjalee01/Leetcode-/tree/master/0817-design-hashmap) |
+| [0822-unique-morse-code-words](https://github.com/Anjalee01/Leetcode-/tree/master/0822-unique-morse-code-words) |
 | [2427-first-letter-to-appear-twice](https://github.com/Anjalee01/Leetcode-/tree/master/2427-first-letter-to-appear-twice) |
 ## String
 |  |
@@ -95,6 +97,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anjalee01/Leetcode-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0686-repeated-string-match](https://github.com/Anjalee01/Leetcode-/tree/master/0686-repeated-string-match) |
 | [0742-to-lower-case](https://github.com/Anjalee01/Leetcode-/tree/master/0742-to-lower-case) |
+| [0822-unique-morse-code-words](https://github.com/Anjalee01/Leetcode-/tree/master/0822-unique-morse-code-words) |
 | [0874-backspace-string-compare](https://github.com/Anjalee01/Leetcode-/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Anjalee01/Leetcode-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Anjalee01/Leetcode-/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
