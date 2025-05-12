@@ -333,4 +333,8 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Anjalee01/Leetcode-/tree/master/0969-number-of-recent-calls) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Anjalee01/Leetcode-/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
