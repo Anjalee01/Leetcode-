@@ -291,6 +291,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Anjalee01/Leetcode-/tree/master/0071-simplify-path) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Anjalee01/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anjalee01/Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Anjalee01/Leetcode-/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Anjalee01/Leetcode-/tree/master/0234-palindrome-linked-list) |
@@ -303,11 +304,13 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Anjalee01/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Anjalee01/Leetcode-/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anjalee01/Leetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Anjalee01/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Anjalee01/Leetcode-/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anjalee01/Leetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
@@ -318,6 +321,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Anjalee01/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Anjalee01/Leetcode-/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anjalee01/Leetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Interactive
