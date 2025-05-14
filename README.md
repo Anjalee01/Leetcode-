@@ -59,6 +59,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | ------- |
 | [0136-single-number](https://github.com/Anjalee01/Leetcode-/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Anjalee01/Leetcode-/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Anjalee01/Leetcode-/tree/master/0342-power-of-four) |
 | [2427-first-letter-to-appear-twice](https://github.com/Anjalee01/Leetcode-/tree/master/2427-first-letter-to-appear-twice) |
 ## Hash Table
 |  |
@@ -243,6 +244,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [0202-happy-number](https://github.com/Anjalee01/Leetcode-/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Anjalee01/Leetcode-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Anjalee01/Leetcode-/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Anjalee01/Leetcode-/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Anjalee01/Leetcode-/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Anjalee01/Leetcode-/tree/master/0412-fizz-buzz) |
 | [2032-largest-odd-number-in-string](https://github.com/Anjalee01/Leetcode-/tree/master/2032-largest-odd-number-in-string) |
@@ -268,6 +270,7 @@ https://drive.google.com/file/d/1SyS_MJHM-HTV41eeJ3fE3tUKFj5HPZ1j/view
 | [0231-power-of-two](https://github.com/Anjalee01/Leetcode-/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Anjalee01/Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Anjalee01/Leetcode-/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Anjalee01/Leetcode-/tree/master/0342-power-of-four) |
 ## Matrix
 |  |
 | ------- |
